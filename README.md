@@ -76,9 +76,9 @@ Na versão 1.0, a aplicacação foi `finalizada` e `entregue`.
 &nbsp;
 &nbsp;
 > ###  Implementação
-A `aplicação` é parte de um curso de BackEnd com JAVA. A implementação foi pensada para ser simples para um `iniciante`.
+A `aplicação` é parte de um curso de `BackEnd` com `JAVA`. A implementação foi pensada para ser simples para um `iniciante`.
 
-* Basta clonar este repositório [conversor de moedas](https://github.com/wesleyp846/ConvesorDeMoedas).
+* Basta clonar este repositório em [conversor de moedas](https://github.com/wesleyp846/ConvesorDeMoedas).
 * Comando `Rum` na `Classe Aplicação`
 * Outros comandos serão atraves dos menus da aplicação
 
