@@ -70,7 +70,7 @@ Na versão 1.0, a aplicacação foi `finalizada` e `entregue`.
 
 4. A saida via `terminal` retornará:
 
-![imagem1.jpg](img\imagem1.jpg)
+![imagem1.jpg](https://github.com/wesleyp846/ConvesorDeMoedas/blob/main/img/imagem1.jpg)
 
 
 &nbsp;
